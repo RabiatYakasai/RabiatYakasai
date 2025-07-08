@@ -4,7 +4,7 @@
 
 ### Frontend Developer
  
- My name is Rabi'at Sadi Yakasai, also known as Fadila/Dee-los. I started my journey as a developer in 2024. I am a graphic designer, a web designer and presently a Frontend Developer. I now look forward to becoming a full-stack b developer soonest. Based in Kano State of Nigeria, I'm passionate about leveraging technology to solve real-world problems.
+ My name is Rabi'at Sadi Yakasai, also known as Fadila/Dee-los. I started my journey as a developer in 2024. I am a graphic designer, a web designer and presently a Frontend Developer. I now look forward to becoming a full-stack  developer soonest. Based in Kano State of Nigeria, I'm passionate about leveraging technology to solve real-world problems.
 
 - 🌍  I reside in Kano, Nigeria
 
@@ -18,20 +18,10 @@
 
 ## 🛠️Skills
 
-- HTML5
-- CSS 3
-- Bootstrap
+- 👾HTML5
+- 🪄CSS 3
+- 🎀Bootstrap
 
 ## 🔗Socials
-- dee_los_collection_
-- 
-
-Badges
-My GitHub Stats
-
-abdulfortech's GitHub stats
-
-
-
-GitHub Commits Graph
-
+- Instagram: https://www.instagram.com/dee_los_collection_?igsh=MXd2ZTdrem9mN2RueQ==
+- Facebook: https://www.fb.com/l/6lp1kJRRR
